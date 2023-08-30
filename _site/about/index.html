@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+    <head>
+<style>
+.tiledBackground {
+  background-image: url(/assets/Finlogo.jpg);
+  background-size: 75px;
+  width: 75px;
+  height: 75px;
+  cursor: pointer;
+}
+.test {
+  padding:5px;
+}
+</style>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+      var backgroundDiv = document.querySelector('.tiledBackground');
+      backgroundDiv.addEventListener('click', function() {
+        window.location.href = '/';
+      });
+    });
+</script>
+</head>
+
+<header class="page-header">
+  <div class="container">
+    <div class="page-header__content">
+
+      <div class="tiledBackground">
+      </div>
+      <nav>
+        
+        <ul role="list" class="nav-list flex-group">
+          <li class="test">
+            <a href="/about/">About</a>
+          </li>
+          <li class="test">
+            <a href="/blog/">Articles</a>
+          </li>
+          <li class="test">
+            <a href="mailto:chenjacob@outlook.com">Contact</a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </div>
+</header>
+    <main>
+    <style>
+    h1{
+        text-align:center;
+        line-height: 1.75;
+    }
+    .Aboutus{
+        text-align: right;
+        font-size: var(--fs-500);
+    }
+    .section-title{
+        font-size: var(--fs-700);
+    }
+    .flex-group{
+        justify-content: flex-end;
+    }
+.hero > div {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  align-items: center;
+  gap: 3em;
+}
+
+.hero__image {
+  width: 100%;
+  /* max-height: max(15rem, 40vh); */
+  object-fit: cover;
+}
+
+
+</style>
+
+<section class="hero">
+        <h1 class="section-title">About Fintroduction</h1>
+  <div class="container flow">
+      <div>
+        <img src="/assets/fintroduction.jpg" alt="logo">
+      </div>
+      <div class="hero__content flow">
+        <p class = "Aboutus"><br>Fintroduction was born out of a simple goal, to bring financial education to everyone.</p>
+        <p class = "Aboutus"><br> Fintroduction aims to be an easy introduction to the daunting world of finances through short, informative, approachable articles.</p>
+        <p class = "Aboutus"><br> Each article serves to be a short lesson that has all the information needed for a solid understanding of each topic.</p>
+        <div class="flex-group">
+          <a href="../#featured-articles" class="btn btn--primary">Featured articles</a>
+          <a href="../blog" class="btn btn--neutral">Most recent articles</a>
+        </div>
+      </div>
+
+  </div>
+  
+</section>
+    </main>
+        <footer class="site-footer">
+  <p>© 2023 Fintroduction. All rights reserved.</p>
+</footer>
+
+</body>
+</html>

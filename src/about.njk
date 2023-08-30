@@ -1,0 +1,54 @@
+---
+title: About
+layout: 'base.njk'
+---
+<style>
+    h1{
+        text-align:center;
+        line-height: 1.75;
+    }
+    .Aboutus{
+        text-align: right;
+        font-size: var(--fs-500);
+    }
+    .section-title{
+        font-size: var(--fs-700);
+    }
+    .flex-group{
+        justify-content: flex-end;
+    }
+.hero > div {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  align-items: center;
+  gap: 3em;
+}
+
+.hero__image {
+  width: 100%;
+  /* max-height: max(15rem, 40vh); */
+  object-fit: cover;
+}
+
+
+</style>
+
+<section class="hero">
+        <h1 class="section-title">About Fintroduction</h1>
+  <div class="container flow">
+      <div>
+        <img src="/assets/fintroduction.jpg" alt="logo">
+      </div>
+      <div class="hero__content flow">
+        <p class = "Aboutus"><br>Fintroduction was born out of a simple goal, to bring financial education to everyone.</p>
+        <p class = "Aboutus"><br> Fintroduction aims to be an easy introduction to the daunting world of finances through short, informative, approachable articles.</p>
+        <p class = "Aboutus"><br> Each article serves to be a short lesson that has all the information needed for a solid understanding of each topic.</p>
+        <div class="flex-group">
+          <a href="../#featured-articles" class="btn btn--primary">Featured articles</a>
+          <a href="../blog" class="btn btn--neutral">Most recent articles</a>
+        </div>
+      </div>
+
+  </div>
+  
+</section>
