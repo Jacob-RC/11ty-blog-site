@@ -1,5 +1,5 @@
 ---
-title: 'Personal Finance Topic1: Basics of Income'
+title: 'Personal Finance Topic 1: Basics of Income'
 description: >-
   Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis
   accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad
