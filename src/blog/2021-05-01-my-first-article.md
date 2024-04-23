@@ -1,18 +1,16 @@
 ---
 title: 'Personal Finance Topic 1: Basics of Income'
 description: >-
-  Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis
-  accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad
-  magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
+  Managing your personal income is one of the most basics and most important
+  parts of personal finance. Understanding your income and how to properly
+  budget is one of the essential building blocks for everything else you do.
 author: Jacob chen
 date: '2023-04-29T17:00:00-07:00'
 tags:
   - post
   - featured
 image: /assets/blog/output-onlinejpgtools.jpg
-imageAlt: >-
-  Managing your personal income is one of the most basics and most important
-  parts of personal finance
+imageAlt: Income shapes the rest of your personal finances
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Risus commodo viverra maecenas accumsan lacus vel. Donec ultrices tincidunt arcu non sodales. Mattis rhoncus urna neque viverra justo nec ultrices dui sapien. Pretium quam vulputate dignissim suspendisse in est. Lobortis mattis aliquam faucibus purus in massa tempor nec. Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at augue. Quis ipsum suspendisse ultrices gravida dictum fusce ut placerat. Vulputate eu scelerisque felis imperdiet proin. Nisl nisi scelerisque eu ultrices.
