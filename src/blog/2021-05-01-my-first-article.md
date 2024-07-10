@@ -12,13 +12,36 @@ tags:
 image: /assets/blog/output-onlinejpgtools.jpg
 imageAlt: Income shapes the rest of your personal finances
 ---
+# Essential Information
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Risus commodo viverra maecenas accumsan lacus vel. Donec ultrices tincidunt arcu non sodales. Mattis rhoncus urna neque viverra justo nec ultrices dui sapien. Pretium quam vulputate dignissim suspendisse in est. Lobortis mattis aliquam faucibus purus in massa tempor nec. Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at augue. Quis ipsum suspendisse ultrices gravida dictum fusce ut placerat. Vulputate eu scelerisque felis imperdiet proin. Nisl nisi scelerisque eu ultrices.
+Income is money recieved in exchange for goods and services. For individuals this can be in the form of wages paid for their labor. For businesses, this can be money paid to them in exchange for services.
 
-Enim nulla aliquet porttitor lacus luctus accumsan. Vulputate mi sit amet mauris commodo quis. Accumsan in nisl nisi scelerisque eu ultrices vitae auctor. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras. Placerat orci nulla pellentesque dignissim. Consequat mauris nunc congue nisi. Nec nam aliquam sem et tortor consequat. Consequat semper viverra nam libero justo laoreet sit amet. Id interdum velit laoreet id donec. Turpis in eu mi bibendum neque. Tincidunt vitae semper quis lectus. Suscipit adipiscing bibendum est ultricies integer quis auctor. Posuere urna nec tincidunt praesent semper. Sagittis id consectetur purus ut faucibus pulvinar elementum. Diam maecenas ultricies mi eget mauris. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Dui sapien eget mi proin sed.
+Properly managing one's income is the building block of sound financial planning. Understanding how to properly manage your income, not just by growing it, is an essential first step upon which the rest of your financial planning grows.
 
-In iaculis nunc sed augue lacus. Pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum. Consectetur adipiscing elit ut aliquam. Tortor consequat id porta nibh venenatis cras sed. Integer enim neque volutpat ac tincidunt. Pellentesque pulvinar pellentesque habitant morbi. Ut enim blandit volutpat maecenas. Risus quis varius quam quisque id. Turpis tincidunt id aliquet risus. Congue eu consequat ac felis donec.
+# Active vs Passive
 
-Aliquam vestibulum morbi blandit cursus risus at. Malesuada fames ac turpis egestas sed tempus. Donec et odio pellentesque diam volutpat commodo sed egestas egestas. Tortor pretium viverra suspendisse potenti nullam ac tortor vitae purus. Enim diam vulputate ut pharetra sit amet aliquam. Est ante in nibh mauris cursus mattis. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque. Nec ultrices dui sapien eget mi proin sed libero enim. Sed sed risus pretium quam vulputate. Sit amet luctus venenatis lectus magna.
+Active income is income earned from performing some activity. Ex, salary paid in exchange for completing a job, commissions earned from a side hustle. You had to _actively_ complete a job to earn your salary.
 
-Mauris nunc congue nisi vitae suscipit tellus mauris. Vitae et leo duis ut. Arcu cursus euismod quis viverra nibh. Amet mauris commodo quis imperdiet. Condimentum lacinia quis vel eros donec. Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Faucibus nisl tincidunt eget nullam. Cursus metus aliquam eleifend mi in nulla. Ut placerat orci nulla pellentesque dignissim enim sit amet. Lobortis feugiat vivamus at augue eget arcu dictum. Nunc faucibus a pellentesque sit amet porttitor. Quis varius quam quisque id diam vel quam elementum pulvinar.
+Passive income is income earned **without** needing to perform some activity. Ex. dividends paid on stocks (A dividend is when companies directly pay out money to their shareholders every couple of months). No direct action was required to get the dividend income (other than holding the stock), so that income was _passively_ generated.
+
+It's not super necessary to differentiate between the two, (active income is never strictly better than passive or vice versa) but having a general understanding of if your income is active or passive can help you plan for changes. For example, if you're planning for retirement, be aware that your active income will drastically decrease if not completely disappear. 
+
+It's probably also useful to acknowledge that most income is going to be active. Passive income is by definition, getting paid to do nothing, and in most circumstances, people aren't going to pay you to do nothing.
+
+**Note:** Monthly rent earned by renting out properties is generally considered passive income, but the process of earning it generally requires active involvement. It's important to recognize the active component of a lot of sources of passive income. (Even if it's just management and upkeep of the income).
+
+# Income Streams
+
+Income streams are sources of a regular supply of money. This can be from sources like investments or salaries. Income streams can be active or passive. An active income stream may be your salary, which gets paid biweekly. A passive income stream might be profits from an investment made. 
+
+Most people will probably have one main income stream like a job. Businesses may have more diversified income streams. They may have profits made on a product that they sell, income from investments and additional income from services they provide.
+
+A general rule of thumb is to generate multiple diversified income streams. In general, diversification is an important concept in personal finance. Having a variety of sources 
+
+# Different Types of Income (
+
+# Taxation
+
+# Salary vs Wages
+
+# Total Compensation
