@@ -36,12 +36,24 @@ Income streams are sources of a regular supply of money. This can be from source
 
 Most people will probably have one main income stream like a job. Businesses may have more diversified income streams. They may have profits made on a product that they sell, income from investments and additional income from services they provide.
 
-A general rule of thumb is to generate multiple diversified income streams. In general, diversification is an important concept in personal finance. Having a variety of sources 
+A general rule of thumb is to generate multiple diversified income streams. Having a variety of sources of income helps you remain resilient to sudden changes like getting fired. Examples may include having a portfolio of dividend-generating stocks, collecting rent from properties, or working a side hustle.
 
-# Different Types of Income (
+# Different Types of Income
+
+There are many different types of income that exist. They're usually not super relevant to know the exact distinctions **except** in certain examples, the most notable of which being tax implications. 
+
+**Gross Income**: Total value of your salary or payments not considering what you spend. (The face value you get paid)
+
+**Net Income**: Your gross income minus relevant taxes and fees. (The amount that ends up in your hands)
+
+**Discretionary Income**: Your net income minus paying necessary expenses. The money that you can *choose* how to spend.
+
+**Taxable Income**: The amount of income that you must pay relevant taxes on.
 
 # Taxation
 
 # Salary vs Wages
 
 # Total Compensation
+
+# Career Development / Salary Negotiations
