@@ -50,9 +50,27 @@ There are many different types of income that exist. They're usually not super r
 
 **Taxable Income**: The amount of income that you must pay relevant taxes on.
 
+**Capital Gains**: Profit earned from selling assets (like stocks) that have appreciated in value. Within capital gains, there is a distinction for how long you've held the asset. If you've held the asset for under a year, the profit made from selling the stock is lumped into your taxable income. If you've held the asset for over a year, the profits are taxed at a lower tax rate.
+
+**Tax-Exempt Income**: Interest paid on certain government bonds can be treated as tax-free.
+
+**Ordinary Income**: Income earned from earnings, interest, rental properties, prize winnings, rental properties, etc. The overwhelming majority of income (any income not specifically considered capital gains or tax-exempt) is considered ordinary income. 
+
 # Taxation
 
+This section is a high-level overview of income taxes. More detailed information regarding taxation can be found in the taxation section. 
+
+In general, you will always pay federal income tax and depending on where you live, you may be obligated to pay state and municipal (city-level) income taxes as well. 
+
+Every year, all of your taxable earnings are combined into a big figure called your "Gross Income" (This is the same thing as taxable income). Your gross income is subtracted by adjustments from things like student loan interest payments and educator expenses. The resulting number is called your Adjusted Gross Income or AGI. Your AGI ultimately determines the tax bracket you fall into and your ultimate tax burden.
+
+The US currently uses a progressive tax model where as your income increases, your tax rate on that additional income increases. In other words, as you earn more money, you pay a greater percentage of that money in taxes. 
+
 # Salary vs Wages
+
+There are 2 common ways of compensating people for their labor. Salaries are fixed incomes paid out to employees weekly, biweekly or monthly. Wages are variable incomes paid out to employees at the end of a pay period (which is at least once per month) depending on the hours worked by that employee. In other words, wages depend on how many hours are worked, while salaried employees will always be paid a certain pre-determined amount regardless of hours worked.
+
+While there is no clear cut answer as to which one is better, but here are a couple of the important factors to consider. Salaried positions are more common in managerial roles while hourly employment is more common in industries like retail, hospitality and services and often is for part-time or entry-level positions. Salaried employees may end up working longer hours without additional compensation like overtime pay. Hourly employees are more often most likely to feel the impact when their employer goes through tough times through a reduction in their hours. Finally, depending on hours worked, hourly employees may have less employer benefits like health insurance.
 
 # Total Compensation
 
