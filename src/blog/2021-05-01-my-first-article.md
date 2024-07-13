@@ -40,17 +40,17 @@ A general rule of thumb is to generate multiple diversified income streams. Havi
 
 # Different Types of Income
 
-There are many different types of income that exist. They're usually not super relevant to know the exact distinctions **except** in certain examples, the most notable of which being tax implications. 
+[There are many different types of income that exist](https://www.investopedia.com/terms/i/income.asp). They're usually not super relevant to know the exact distinctions **except** in certain examples, the most notable of which being tax implications. 
 
 **Gross Income**: Total value of your salary or payments not considering what you spend. (The face value you get paid)
 
 **Net Income**: Your gross income minus relevant taxes and fees. (The amount that ends up in your hands)
 
-**Discretionary Income**: Your net income minus paying necessary expenses. The money that you can *choose* how to spend.
+**Discretionary Income**: Your net income minus paying necessary expenses. The money that you can _choose_ how to spend.
 
 **Taxable Income**: The amount of income that you must pay relevant taxes on.
 
-**Capital Gains**: Profit earned from selling assets (like stocks) that have appreciated in value. Within capital gains, there is a distinction for how long you've held the asset. If you've held the asset for under a year, the profit made from selling the stock is lumped into your taxable income. If you've held the asset for over a year, the profits are taxed at a lower tax rate.
+[**Capital Gains**](<https://www.investopedia.com/terms/c/capitalgain.asp#:~:text=Error%20Code%3A%20100013)-,What%20Is%20a%20Capital%20Gain%3F,own%20is%20a%20capital%20asset.>): Profit earned from selling assets (like stocks) that have appreciated in value. Within capital gains, there is a distinction for how long you've held the asset. If you've held the asset for under a year, the profit made from selling the stock is lumped into your taxable income. If you've held the asset for over a year, the profits are taxed at a lower tax rate.
 
 **Tax-Exempt Income**: Interest paid on certain government bonds can be treated as tax-free.
 
@@ -62,7 +62,7 @@ This section is a high-level overview of income taxes. More detailed information
 
 In general, you will always pay federal income tax and depending on where you live, you may be obligated to pay state and municipal (city-level) income taxes as well. 
 
-Every year, all of your taxable earnings are combined into a big figure called your "Gross Income" (This is the same thing as taxable income). Your gross income is subtracted by adjustments from things like student loan interest payments and educator expenses. The resulting number is called your Adjusted Gross Income or AGI. Your AGI ultimately determines the tax bracket you fall into and your ultimate tax burden.
+Every year, all of your taxable earnings are combined into a big figure called your "Gross Income" (This is the same thing as taxable income). Your gross income is subtracted by adjustments from things like student loan interest payments and educator expenses. The resulting number is called your [Adjusted Gross Income or AGI](https://www.irs.gov/e-file-providers/definition-of-adjusted-gross-income). Your AGI ultimately determines the tax bracket you fall into and your ultimate tax burden.
 
 The US currently uses a progressive tax model where as your income increases, your tax rate on that additional income increases. In other words, as you earn more money, you pay a greater percentage of that money in taxes. 
 
@@ -74,4 +74,14 @@ While there is no clear cut answer as to which one is better, but here are a cou
 
 # Total Compensation
 
-# Career Development / Salary Negotiations
+[Total compensation](https://www.pelagohealth.com/resources/hr-glossary/total-compensation/) is the sum of all forms of payment and benefits an employee receives. This includes an employee's base pay along with benefits like medical/dental coverage, retirement benefits and additional overtime compensation.
+
+When considering compensation, it's useful to look at all included benefits (including which ones offered that you may not use) to make a well-informed decision around your compensation. 
+
+# Career Development
+
+Each company will have their own pay progression track. [Common factors used to determine salary](https://www.forbes.com/sites/cameronkeng/2014/06/22/employees-that-stay-in-companies-longer-than-2-years-get-paid-50-less/#:~:text=I%20found%20that%20the%20people,Same%20thing%20applies%20for%20titles.) are the length of employment, the pay rates of their competitors, company performance, individual performance, team performance, skill development, inflation related or promotions. Most jobs have their own salary progression pre-determined.
+
+Another factor worth considering is salary progression relative to inflation. Average inflation is somewhere usually around 2% per year. If an employee's salary growth is 1%, their salary isn't actually beating inflation. In the long run, their purchasing power will decrease. Comparing pay progression with inflation helps paint a better picture as to how your income may grow or shrink over time.
+
+Another important piece of the puzzle is with changing jobs. [Changing jobs can and does often have a big boost on salary.](https://www.forbes.com/sites/cameronkeng/2014/06/22/employees-that-stay-in-companies-longer-than-2-years-get-paid-50-less/#:~:text=I%20found%20that%20the%20people,Same%20thing%20applies%20for%20titles.) There's a couple reasons why this is. In general, employee pay progression is standardized to a couple of percent per year. Changing jobs allow for you to re-negotiate a base pay. Companies competing for talent may also be more willing to pay more when hiring to attract the best talent. Ultimately, moving between companies is a complex decision that involves more than just salary considerations, but it's useful to recognize how moving can increase long-term career earnings.
