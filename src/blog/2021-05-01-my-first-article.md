@@ -88,7 +88,7 @@ Another important piece of the puzzle is changing jobs. [Changing jobs can and d
 
 # Learn More
 
-\Here are some additional resources that may be useful to keep learning.
+Here are some additional resources that may be useful to keep learning.
 
 [Khan Academy on Income](https://www.khanacademy.org/college-careers-more/financial-literacy/xa6995ea67a8e9fdd:employment)
 
