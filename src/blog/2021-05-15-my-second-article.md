@@ -32,6 +32,18 @@ One of the most popular budgeting system, a 50-30-20 budget means setting aside 
 
 Budgeting is also different for each person. Sometimes, setting aside 50% of income is not enough to cover expenses. You may need to dip into the "wants" portion of you budget for a while to cover these expenses. While it might be tempting to dip into the 20% savings category, try not to, as it's always better to sacrifice a bit of short-term spending than long-term stability.
 
+A 50-30-20 budget is quite easy to follow and implement. It provides a nice general structure to think about how different parts of your income can be used for distinct goals. By also accounting for wants in a budget, a 50-30-20 budget helps create a balanced budget that allows you to cover your needs, have fun, and also work towards your financial goals.
+
+As previously mentioned, a 50-30-20 budget lacks customizeability. As incomes go towards either extreme, more or less than 50% of income may be required to cover expenses. When using a 50-30-20, understand that it's a rough guideline that should be modified based on your unique financial situation.
+
+# Zero Based Budgeting
+
+Zero-based budgeting, as the name implies, involves having zero dollars left over at the end of every month. Each dollar is assigned a specific expense. At the end of a month, each dollar of your income will have an explicit purpose that it is put to doing. Any long-term financial goals, like saving for a house or retirement are also expenses built into your monthly total. Note though, that things that normally wouldn't be considered expenses like saving for a home, or chairitable donations are considered expenses in zero-based budgeting. 
+
+Some advantages of a zero-based budget are that it helps give a clear picture of the money that flows in and out. It's also very flexible, allowing each person to customize it to help them meet their own unqiue financial goals. 
+
+On the other hand, a zero-based budget doesn't do very well with variable expenses or expenses that you didn't plan for. A sudden car malfunction will most likely not be included as an expense in a zero based budget. 
+
 # Budget Priorities
 
 Prioritizing expenses can be a difficult and confusing task. [Here is a list of potential priorities to put your money towards.](https://www.nerdwallet.com/article/finance/how-to-budget)
