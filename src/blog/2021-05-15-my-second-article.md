@@ -58,6 +58,38 @@ One of the biggest advantages of pay yourself first budgeting is that it pushes 
 
 While it's important to pay yourself first, you need to make sure that you have enough money left over to cover necessary living expenses. You can always increase your savings later. Another thing not accounted for with pay yourself first budgeting is the other financial goals that you may have, for example paying off credit card debt.
 
+# Envelope Budgeting
+
+Also known as cash stuffing, envelope budgeting involves setting aside portions of your income for specific expenses (like putting cash into an envelope where each envelope is designated for a specific purpose). When you spend in that category, you use money from that envelope. If it runs out of money, you have to wait until next month to spend in that category.
+
+To get started, create a variety of categories, these could be as generic as needs wants and savings as based on a 50-30-20 budget, or as specific as "eating out". Once you've created these categories, set aside a portion of your income to each envelope. When it's time to spend, only use money from the corresponding envelope.
+
+Some advantages of envelope budgeting is that it helps avoid overdraft fees and debt. Dividing up your money also helps make you aware how much you're spending on each category, which helps avoid overspending and impulse purchases.
+
+If you decide to envelope budget with physical cash, it's an ever-present risk of loss or theft. Additionally, envelope budgeting requires proper knowledge of your expenses so that you set aside enough money to cover necessary expenses. 
+
+<br>
+<br>
+Regardless which budgeting strategy you choose, make sure to adjust them to your financial situation. There's no one-size-fits-all solution to personal finance.
+
+After you pick a budget strategy, the hardest part comes next; sticking to it! Try to keep following your budgeting strategy, but don't be afraid to adjust it as necessary based on things that come up.
+
+# 30 Day Rule
+
+A simple but effective trick to reduce expenses on non-essential items. As a general rule of thumb, the next time you find yourself thinking about making an impulse purchase or buying any non-essential item, sit on that idea for 30 days. At the end of the 30 day period, if you still want to make the purchase, go for it. Alternatively, if you forgot about the purchase or decided that it wasn't worth it, you'll have saved some money.
+
+Following the 30 day rule helps take the emotion out of spending by stopping us from spending money impulsively on things that don't actually make us happy or serve a utility.
+
+# Ways To Help Balance Your Budget
+
+A good general rule of thumb is to look to revise your budget every 2-3 months. Re-evaluate your expenses, goals and income streams. Being flexibile with your budget allows it to remain accurate and effective.
+
+The easiest way to help balance your budget is to increase your income. While certainly easier said than done, working for more hours, doing freelance work or creating passive income streams can give you more money to work with.
+
+Fixed expenses, which are expenses that cost the same or similar each month are often hard to lower. On the contrary, variable expenses, which are expenses that can change easily like eating out or shopping is much easier to decrease. Tracking your spending using budgeting apps can also help identify areas where you can cut back on variable expenses. 
+
+Emergency funds, or a rainy-day fund, can also be useful in providing a buffer for budgets. Sudden expenses like a car breaking down or medical emergency can de-rail an otherwise sound budget. Having an emergency fund helps absorb these blows and helps prevent them from having large impacts on your budget.
+
 # Budget Priorities
 
 Prioritizing expenses can be a difficult and confusing task. [Here is a list of potential priorities to put your money towards.](https://www.nerdwallet.com/article/finance/how-to-budget)
