@@ -34,7 +34,7 @@ Budgeting is also different for each person. Sometimes, setting aside 50% of inc
 
 # Budget Priorities
 
-Prioritizing expenses can be a difficult and confusing task. Here is a list of potential priorities to put your money towards.
+Prioritizing expenses can be a difficult and confusing task. [Here is a list of potential priorities to put your money towards.](https://www.nerdwallet.com/article/finance/how-to-budget)
 
 ## 1. Emergency fund
 
@@ -51,3 +51,7 @@ Not all debt is created equal. Some debt like credit card loans, payday loans ti
 ## 4. Additional Retirement Savings
 
 Even if your employer isn't giving you free money anymore, it's still a good idea to make it a habit to invest towards retirement. As Einstein aptly put, "Compound interest is the eighth wonder of the world. He who understands it, earns it. He who doesn't, pays it". The earlier you start setting aside money for your retirement, the longer it has to compound and grow.
+
+## 5. Debt Repayment
+
+It's often a good idea to use additional money to pay off additional debt. Even if the interest rates aren't exhorbidantly high, debt still will cost you money. Paying this down reduces how long you'll have to spend paying off the loan.
