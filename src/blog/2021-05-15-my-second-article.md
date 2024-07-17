@@ -32,6 +32,8 @@ One of the most popular budgeting system, a 50-30-20 budget means setting aside 
 
 Budgeting is also different for each person. Sometimes, setting aside 50% of income is not enough to cover expenses. You may need to dip into the "wants" portion of you budget for a while to cover these expenses. While it might be tempting to dip into the 20% savings category, try not to, as it's always better to sacrifice a bit of short-term spending than long-term stability.
 
+To get started with 50-30-20 budgeting, compile your monthly post-tax income and divide it into money for your needs wants and savings. As you spend, categorize each expense and make sure they fit within your budget for that category. Adjust the actual percentages as necessary.
+
 A 50-30-20 budget is quite easy to follow and implement. It provides a nice general structure to think about how different parts of your income can be used for distinct goals. By also accounting for wants in a budget, a 50-30-20 budget helps create a balanced budget that allows you to cover your needs, have fun, and also work towards your financial goals.
 
 As previously mentioned, a 50-30-20 budget lacks customizeability. As incomes go towards either extreme, more or less than 50% of income may be required to cover expenses. When using a 50-30-20, understand that it's a rough guideline that should be modified based on your unique financial situation.
@@ -40,9 +42,21 @@ As previously mentioned, a 50-30-20 budget lacks customizeability. As incomes go
 
 Zero-based budgeting, as the name implies, involves having zero dollars left over at the end of every month. Each dollar is assigned a specific expense. At the end of a month, each dollar of your income will have an explicit purpose that it is put to doing. Any long-term financial goals, like saving for a house or retirement are also expenses built into your monthly total. Note though, that things that normally wouldn't be considered expenses like saving for a home, or chairitable donations are considered expenses in zero-based budgeting. 
 
+To start with zero-based budgeting, compile your monthly income as well as your monthly expenses. These expenses should include all saving you plan to do. Adjust the amount of money put into each expense such so that everything you need is covered while also spending spending all your money. As you go, make sure to adjust your expenses so that you have an accurate idea going forward of how much you need to budget away towards each expense.
+
 Some advantages of a zero-based budget are that it helps give a clear picture of the money that flows in and out. It's also very flexible, allowing each person to customize it to help them meet their own unqiue financial goals. 
 
-On the other hand, a zero-based budget doesn't do very well with variable expenses or expenses that you didn't plan for. A sudden car malfunction will most likely not be included as an expense in a zero based budget. 
+On the other hand, a zero-based budget doesn't do very well with variable expenses or expenses that you didn't plan for. A sudden car malfunction will most likely not be included as an expense in a zero based budget. It also requires a lot of time to properly plan and categorize each expense. 
+
+# Pay Yourself First Budgeting
+
+Similar to 50-30-20 budgeting, pay yourself first budgeting sets money aside for different goals. The key difference is that it starts with your financial goals. The whole concept of "paying yourself first" is that you first put money towards your financial goals and then use the rest to cover expenses. This helps make sure you're always on track to meet your savings goals.
+
+To start with pay yourself first budgeting, identify your savings goals both short and long term. Common long-term goals include saving for retirement, building an emergency fund while common short-term goals include travel, new appliances or a house. Decide how much you need to contribute to each goal to accomplish them in a timely fashion. Use the remaining funds to cover your needs and wants. A good guideline is to start with a 50-30-20 approach of starting with around 20% of your income set aside towards savings. Ideally you want to be accounting for your financial goals, while also having enough money to cover your needs and wants.
+
+One of the biggest advantages of pay yourself first budgeting is that it pushes you to focus on the big picture. When people save first, they have less money to spend on impulsive purchases and tend to buy things they need or of value.
+
+While it's important to pay yourself first, you need to make sure that you have enough money left over to cover necessary living expenses. You can always increase your savings later. Another thing not accounted for with pay yourself first budgeting is the other financial goals that you may have, for example paying off credit card debt.
 
 # Budget Priorities
 
