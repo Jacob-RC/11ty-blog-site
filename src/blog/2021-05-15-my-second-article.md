@@ -119,9 +119,9 @@ It's often a good idea to use additional money to pay off additional debt. Even 
 
 # Additional Resources
 
-[Khan Academy on Budgeting and Savings](https://www.khanacademy.org/college-careers-more/financial-literacy/xa6995ea67a8e9fdd:budgeting-and-saving)
+[Khan Academy: Saving and Budgeting](https://www.khanacademy.org/college-careers-more/financial-literacy/xa6995ea67a8e9fdd:budgeting-and-saving)
 
-[Investopedia on Budgeting and Savings](https://www.investopedia.com/budgeting-and-savings-4427755)
+[Investopedia: Saving and Budgeting](https://www.investopedia.com/budgeting-and-savings-4427755)
 
 [Tips for creating a budget](https://www.investopedia.com/budgeting-and-savings-4427755)
 
